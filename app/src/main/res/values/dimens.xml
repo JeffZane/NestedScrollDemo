@@ -1,0 +1,6 @@
+<resources>
+
+    <dimen name="home_page_toolbar_height">54dip</dimen>
+    <dimen name="home_page_tab_layout_height">45dip</dimen>
+
+</resources>
